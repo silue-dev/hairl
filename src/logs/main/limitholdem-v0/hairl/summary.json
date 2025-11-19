@@ -1,0 +1,5 @@
+{
+  "benchmark": "LimitHoldem-v0",
+  "algo": "hairl",
+  "num_experiments": 10
+}

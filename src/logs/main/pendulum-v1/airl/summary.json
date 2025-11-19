@@ -1,0 +1,5 @@
+{
+  "benchmark": "Pendulum-v1",
+  "algo": "airl",
+  "num_experiments": 10
+}

@@ -1,0 +1,17 @@
+{
+    "param_index": 16,
+    "benchmark": "Pendulum-v1",
+    "override": {
+        "noise_start": 0.5,
+        "noise_dict": {
+            "dim": "batch",
+            "start": 0.5,
+            "final": 0.04,
+            "decay": 0.01
+        }
+    },
+    "final_mean_irl": -162.32740783691406,
+    "final_std_irl": 26.071395874023438,
+    "final_mean_rl": -663.0807376361097,
+    "final_std_rl": 505.89578112047246
+}

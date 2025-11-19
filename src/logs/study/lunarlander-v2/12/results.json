@@ -1,0 +1,11 @@
+{
+    "param_index": 12,
+    "benchmark": "LunarLander-v2",
+    "override": {
+        "gt_ratio_d": 0.9
+    },
+    "final_mean_irl": 177.66561889648438,
+    "final_std_irl": 20.04628562927246,
+    "final_mean_rl": -123.44116325574024,
+    "final_std_rl": 212.33303868652484
+}

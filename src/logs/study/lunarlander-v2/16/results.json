@@ -1,0 +1,17 @@
+{
+    "param_index": 16,
+    "benchmark": "LunarLander-v2",
+    "override": {
+        "noise_start": 0.5,
+        "noise_dict": {
+            "dim": "batch",
+            "start": 0.5,
+            "final": 0.04,
+            "decay": 0.01
+        }
+    },
+    "final_mean_irl": 173.54214477539062,
+    "final_std_irl": 22.46011734008789,
+    "final_mean_rl": -3.0139552338049223,
+    "final_std_rl": 195.97615781522163
+}

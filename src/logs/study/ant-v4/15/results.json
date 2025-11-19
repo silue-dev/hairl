@@ -1,0 +1,17 @@
+{
+    "param_index": 15,
+    "benchmark": "Ant-v4",
+    "override": {
+        "noise_start": 0.25,
+        "noise_dict": {
+            "dim": "batch",
+            "start": 0.25,
+            "final": 0.04,
+            "decay": 0.01
+        }
+    },
+    "final_mean_irl": 1457.20458984375,
+    "final_std_irl": 251.4861297607422,
+    "final_mean_rl": 2570.1202499932174,
+    "final_std_rl": 538.7529245403073
+}

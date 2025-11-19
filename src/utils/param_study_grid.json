@@ -1,0 +1,182 @@
+{
+    "0": {
+        "override": {
+            "gt_ratio_p": 0.0
+        }
+    },
+    "1": {
+        "override": {
+            "gt_ratio_p": 0.1
+        }
+    },
+    "2": {
+        "override": {
+            "gt_ratio_p": 0.25
+        }
+    },
+    "3": {
+        "override": {
+            "gt_ratio_p": 0.5
+        }
+    },
+    "4": {
+        "override": {
+            "gt_ratio_p": 0.75
+        }
+    },
+    "5": {
+        "override": {
+            "gt_ratio_p": 0.9
+        }
+    },
+    "6": {
+        "override": {
+            "gt_ratio_p": 1.0
+        }
+    },
+    "7": {
+        "override": {
+            "gt_ratio_d": 0.0
+        }
+    },
+    "8": {
+        "override": {
+            "gt_ratio_d": 0.1
+        }
+    },
+    "9": {
+        "override": {
+            "gt_ratio_d": 0.25
+        }
+    },
+    "10": {
+        "override": {
+            "gt_ratio_d": 0.5
+        }
+    },
+    "11": {
+        "override": {
+            "gt_ratio_d": 0.75
+        }
+    },
+    "12": {
+        "override": {
+            "gt_ratio_d": 0.9
+        }
+    },
+    "13": {
+        "override": {
+            "gt_ratio_d": 1.0
+        }
+    },
+    "14": {
+        "override": {
+            "noise_start": 0.0,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 0.0,
+                "final": 0.04,
+                "decay": 0.01
+            }
+        }
+    },
+    "15": {
+        "override": {
+            "noise_start": 0.25,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 0.25,
+                "final": 0.04,
+                "decay": 0.01
+            }
+        }
+    },
+    "16": {
+        "override": {
+            "noise_start": 0.5,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 0.5,
+                "final": 0.04,
+                "decay": 0.01
+            }
+        }
+    },
+    "17": {
+        "override": {
+            "noise_start": 0.75,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 0.75,
+                "final": 0.04,
+                "decay": 0.01
+            }
+        }
+    },
+    "18": {
+        "override": {
+            "noise_start": 1.0,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 1.0,
+                "final": 0.04,
+                "decay": 0.01
+            }
+        }
+    },
+    "19": {
+        "override": {
+            "noise_final": 0.0,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 1.0,
+                "final": 0.0,
+                "decay": 0.01
+            }
+        }
+    },
+    "20": {
+        "override": {
+            "noise_final": 0.02,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 1.0,
+                "final": 0.02,
+                "decay": 0.01
+            }
+        }
+    },
+    "21": {
+        "override": {
+            "noise_final": 0.08,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 1.0,
+                "final": 0.08,
+                "decay": 0.01
+            }
+        }
+    },
+    "22": {
+        "override": {
+            "noise_final": 0.2,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 1.0,
+                "final": 0.2,
+                "decay": 0.01
+            }
+        }
+    },
+    "23": {
+        "override": {
+            "noise_final": 0.5,
+            "noise_dict": {
+                "dim": "batch",
+                "start": 1.0,
+                "final": 0.5,
+                "decay": 0.01
+            }
+        }
+    }
+}

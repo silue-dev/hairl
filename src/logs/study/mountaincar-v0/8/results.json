@@ -1,0 +1,11 @@
+{
+    "param_index": 8,
+    "benchmark": "MountainCar-v0",
+    "override": {
+        "gt_ratio_d": 0.1
+    },
+    "final_mean_irl": -131.06199645996094,
+    "final_std_irl": 9.764615058898926,
+    "final_mean_rl": -145.34,
+    "final_std_rl": 23.0642667606572
+}

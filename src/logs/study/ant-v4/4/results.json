@@ -1,0 +1,11 @@
+{
+    "param_index": 4,
+    "benchmark": "Ant-v4",
+    "override": {
+        "gt_ratio_p": 0.75
+    },
+    "final_mean_irl": 1948.6868896484375,
+    "final_std_irl": 234.49893188476562,
+    "final_mean_rl": 2555.172920693901,
+    "final_std_rl": 672.4606833146751
+}
