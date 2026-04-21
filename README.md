@@ -2,7 +2,8 @@
 
 This repository provides the implementation of H-AIRL (Hybrid Adversarial Inverse Reinforcement Learning).
 
-* 📄 **Paper:** Accepted at ESANN 2026.
+* 📄 **Paper:** Published at ESANN 2026.
+* 🔖 **DOI:** https://doi.org/10.14428/esann/2026.ES2026-114.
 * 🔗 **arXiv:** https://arxiv.org/abs/2511.21356.
 
 We benchmark H-AIRL against AIRL ([Fu et al., 2017](https://arxiv.org/abs/1710.11248)) on multiple [Gymnasium](https://gymnasium.farama.org) environments and on Limit Hold'em Poker using [RLCard](https://rlcard.org).
@@ -37,4 +38,3 @@ python src/main.py --benchmark LunarLander-v2 --skip-rl
 ```bash
 python src/utils/plot_main.py
 ```
-
