@@ -1,0 +1,17 @@
+{
+    "param_index": 15,
+    "benchmark": "HalfCheetah-v4",
+    "override": {
+        "noise_start": 0.25,
+        "noise_dict": {
+            "dim": "batch",
+            "start": 0.25,
+            "final": 0.04,
+            "decay": 0.01
+        }
+    },
+    "final_mean_irl": 2826.689208984375,
+    "final_std_irl": 64.26651763916016,
+    "final_mean_rl": 2485.6032254928623,
+    "final_std_rl": 465.433104283769
+}

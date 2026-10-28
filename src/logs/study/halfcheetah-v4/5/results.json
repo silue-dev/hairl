@@ -1,0 +1,11 @@
+{
+    "param_index": 5,
+    "benchmark": "HalfCheetah-v4",
+    "override": {
+        "gt_ratio_p": 0.9
+    },
+    "final_mean_irl": 2260.617919921875,
+    "final_std_irl": 514.5735473632812,
+    "final_mean_rl": 2867.5095478586773,
+    "final_std_rl": 952.7346708466587
+}

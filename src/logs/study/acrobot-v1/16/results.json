@@ -1,0 +1,17 @@
+{
+    "param_index": 16,
+    "benchmark": "Acrobot-v1",
+    "override": {
+        "noise_start": 0.5,
+        "noise_dict": {
+            "dim": "batch",
+            "start": 0.5,
+            "final": 0.04,
+            "decay": 0.01
+        }
+    },
+    "final_mean_irl": -474.3609924316406,
+    "final_std_irl": 37.206356048583984,
+    "final_mean_rl": -396.73999999999995,
+    "final_std_rl": 151.32933220941158
+}

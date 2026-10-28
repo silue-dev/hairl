@@ -1,0 +1,11 @@
+{
+    "param_index": 5,
+    "benchmark": "Pendulum-v1",
+    "override": {
+        "gt_ratio_p": 0.9
+    },
+    "final_mean_irl": -165.3694305419922,
+    "final_std_irl": 26.43562889099121,
+    "final_mean_rl": -470.2028835569411,
+    "final_std_rl": 423.1169223786857
+}

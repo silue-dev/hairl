@@ -1,0 +1,17 @@
+{
+    "param_index": 22,
+    "benchmark": "MountainCar-v0",
+    "override": {
+        "noise_final": 0.2,
+        "noise_dict": {
+            "dim": "batch",
+            "start": 1.0,
+            "final": 0.2,
+            "decay": 0.01
+        }
+    },
+    "final_mean_irl": -125.48799896240234,
+    "final_std_irl": 10.644699096679688,
+    "final_mean_rl": -132.82,
+    "final_std_rl": 24.23621130457537
+}

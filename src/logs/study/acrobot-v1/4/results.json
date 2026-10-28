@@ -1,0 +1,11 @@
+{
+    "param_index": 4,
+    "benchmark": "Acrobot-v1",
+    "override": {
+        "gt_ratio_p": 0.75
+    },
+    "final_mean_irl": -94.31999206542969,
+    "final_std_irl": 8.251238822937012,
+    "final_mean_rl": -85.34,
+    "final_std_rl": 14.905957912215305
+}
